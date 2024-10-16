@@ -59,7 +59,7 @@ $ git clone https://github.com/Sgfrd24-35/Prmn2024Fall.git
 
 * IntelliJのターミナルを開く
 * 以下のコマンドを入力する
-> Windowsの場合はローカルのタブの右側にある`∨`を押し、`Git Bush`を選択してからコマンドを入力してください
+> Windowsの場合は画面下側にあるターミナルを開き、ターミナル上部の右側にある”Ｖ”を押し、ターミナルを**Git Bash**に変更してからコマンドを1行ずつ実行してください
 ```
 git add .
 git commit -m "学生情報テーブルを作成した"

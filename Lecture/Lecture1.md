@@ -45,7 +45,7 @@ $ git config --global --list
   
 	![image](https://user-images.githubusercontent.com/85465441/198196394-a332b98a-2c7a-4d8c-ac4d-f7792d9bb6b5.png)
 
-- ローカルリポジトリの作成
+- ローカルリポジトリの作成<br>
 以下はWindowsの人はGitBash、Macの人はターミナルで操作する
   - リポジトリを作成するディレクトリを作成する
   
@@ -67,7 +67,7 @@ $ git config --global --list
   $ cd Prmn2024Fall
   ````
   
-  先にファイルをファイルを作成する方法もある
+  先にファイルを作成する方法もある
   
   ローカルリポジトリを作成したいところで新規ファイルを保存してパスのコピーを行い、cdコマンドの後ろにつける
   
@@ -178,7 +178,7 @@ $ git config --global --list
 ![image](https://user-images.githubusercontent.com/85465441/198528268-70986441-812b-4a24-b6f6-f5d30be65c8e.png)
 
 - 以下のコマンドを入力する
-※Windowsの場合はローカルの右側にある”Ｖ”を押し、**Git Bushを押してから**コマンドを入力してください
+※ Windowsの場合は画面下側にあるターミナルを開き、ターミナル上部の右側にある”Ｖ”を押し、ターミナルを**Git Bash**に変更してからコマンドを1行ずつ実行してください
 ```
 $ git add .
 $ git commit -m "Github上に表示するコメント文(例:プロジェクト作成)"
@@ -197,7 +197,7 @@ pushはできるだけ細かく行い、コメント文は簡潔に([パッケ�
 
 - 左側のメニューのsrc > lecture01を 右クリックする
 - New > Java Class を選択する
-- Nameには "Main" と記入しOKを押す
+- Nameには "Main" と記入しOKを押す（ファイルを追加するか聞かれた場合には追加する）
 
 今後クラス作成をするときは、各lectureXXパッケージ内に作成すること
 
