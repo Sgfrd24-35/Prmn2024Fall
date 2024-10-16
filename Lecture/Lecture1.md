@@ -65,11 +65,11 @@ $ git config --global --list
   $ cd ユーザ名
   $ mkdir Prmn2024Fall
   $ cd Prmn2024Fall
-  ````
+  ```
   
   ※ 先にファイルを作成する方法もある
   
-  ローカルリポジトリを作成したいところで新規ファイルを保存してパスのコピーを行い、cdコマンドの後ろにつける
+  ローカルリポジトリを作成したいところで新規ファイルを保存してパスのコピーを行い、cdコマンドの後ろにつける<br>
 【Windowsの場合】
 > ![image](https://user-images.githubusercontent.com/85465441/198379464-4e54be20-1bec-4619-abbf-825b1b450152.png)
 
