@@ -5,9 +5,8 @@
 
 # 実習の準備
 ## ベースとなるプロジェクトの準備
-* Discordの`資料`から`db_prac.zip`をダウンロードし、展開する
 * IntelliJ IDEAを起動する
-* 展開したdb_pracフォルダのpom.xmlをIntelliJで開く（プロジェクトとして開く）
+* `Prmn2024Fall`の`Documents`から`db_prac`のpom.xmlをIntelliJで開く（プロジェクトとして開く）
 
 ## データベースの初期登録
 * [データベースの基本的な設定](../Lecture/lecture3.md) を見てデータベースを作成する
