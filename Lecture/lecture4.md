@@ -7,10 +7,13 @@
 
 # 実習の準備
 ## ベースとなるプロジェクトの準備
-* Discordの`資料`から`db_prac.zip`をダウンロードし、展開する
-* 展開したdb_pracフォルダをlecture1で作成した`Prmn2024b`に移動させる（README.mdと同じ位置）
+* Git Bash でクローンするために、ディレクトリを作成して移動する（cd を使って、カレントディレクトリにする）
+* `Prmn2024Fall`のリモートリポジトリを以下のようにクローンする
+```
+$ git clone https://github.com/Sgfrd24-35/Prmn2024Fall.git
+```
 * IntelliJ IDEAを起動する
-* 移動させたdb_pracフォルダのpom.xmlをIntelliJで開く（プロジェクトとして開く）
+* `Prmn2024Fall`の`Documents`から`db_prac`のpom.xmlをIntelliJで開く（プロジェクトとして開く）
 
 <br>
 

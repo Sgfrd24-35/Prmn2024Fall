@@ -53,8 +53,8 @@ $ git config --global --list
   ```
   $ cd
   $ cd Desktop
-  $ mkdir Prmn2024b
-  $ cd Prmn2024b
+  $ mkdir Prmn2024Fall
+  $ cd Prmn2024Fall
   ```
   
   【Windows例】 Windows(C:)>Users>ユーザ名 にディレクトリを作成する場合
@@ -63,8 +63,8 @@ $ git config --global --list
   $ cd c:
   $ cd Users
   $ cd ユーザ名
-  $ mkdir Prmn2024b
-  $ cd Prmn2024b
+  $ mkdir Prmn2024Fall
+  $ cd Prmn2024Fall
   ````
   
   先にファイルをファイルを作成する方法もある
@@ -90,7 +90,7 @@ $ git config --global --list
   【例】
   
   ```
-  $ echo "# Prmn2024b" >> README.md
+  $ echo "# Prmn2024Fall" >> README.md
   $ git init
   $ git add README.md
   $ git commit -m "first commit"
@@ -101,7 +101,7 @@ $ git config --global --list
 - Githubのリポジトリ上にREADE.mdというファイルが上がっていることを確認する
 
 ### プロジェクトの作成
-- Githubにpushを行うローカルリポジトリを作成したディレクトリ下に ”prmn2024b” フォルダを作る
+- Githubにpushを行うローカルリポジトリを作成したディレクトリ下に ”prmn2024Fall” フォルダを作る
 - IntelliJ IDEAを起動し、ファイル　→　新規　→　プロジェクトを選択する。
 
 
@@ -112,9 +112,9 @@ $ git config --global --list
   
 - 以下の画面になったら、「Spring Initializer」を選択し、
 
-    - 名前:prmn2024b
+    - 名前:prmn2024Fall
   
-    - 場所：各自の”prmn2024b”フォルダのパス
+    - 場所：各自の”prmn2024Fall”フォルダのパス
 
     - 言語:Java
 
@@ -149,8 +149,6 @@ $ git config --global --list
 
 ### pom.xmlをプロジェクトに反映させる
 
-※追加部分です、確認お願いします（2024/10/31）
-
 - pom.xmlファイルを開く
 - エディタ上で右クリックし、Maven > プロジェクトの再ロード を選択
 
@@ -159,13 +157,13 @@ $ git config --global --list
 
 ### パッケージの作成
 
-- 左側のメニューの “prmn2024b” を開く
+- 左側のメニューの “prmn2024Fall” を開く
 - ”src” → ”main” → ”java”フォルダを押し、”java”フォルダを右クリックし、New > Packageを選択
 - package nameには、”lecture01”と記入しOKを押す
 
 今後特に指示が無い場合は ”lectureXX” の形式で作成する。
 
-例: 第3回講義では、 prmn2024b/lecture03/
+例: 第3回講義では、 prmn2024Fall/lecture03/
 
 ![image](https://user-images.githubusercontent.com/85465441/198200330-18ced012-4f97-4718-b2b9-4b20a36f1e9a.png)
 
