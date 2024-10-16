@@ -70,13 +70,15 @@ $ git config --global --list
   ※ 先にファイルを作成する方法もある
   
   ローカルリポジトリを作成したいところで新規ファイルを保存してパスのコピーを行い、cdコマンドの後ろにつける
-  
-	【Windows】 
+<details>
+  <summary>【Windowsの場合】</summary> 
 	> ![image](https://user-images.githubusercontent.com/85465441/198379464-4e54be20-1bec-4619-abbf-825b1b450152.png)
-
-	【Mac】
+</details>
+<details>
+  <summary>【Macの場合】</summary> 
 	> ![image](https://user-images.githubusercontent.com/85465441/198379592-a4fcfaaa-351b-4e4e-b6f4-f5d12d8aed14.png)
- 
+</details>
+	
   ```
   $ cd ファイルのパス
   ```
