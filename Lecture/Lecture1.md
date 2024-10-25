@@ -230,10 +230,10 @@ pushはできるだけ細かく行い、コメント文は簡潔に([パッケ�
 [gitの操作方法 基本編](https://github.com/Sgfrd24-35/Prmn2024Fall/blob/main/git/Documents/git%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E6%93%8D%E4%BD%9C.pdf)
 
 
-[gitの操作方法 練習編(ローカルリポジトリ)](https://github.com/Sgfrd24-35/Prmn2024Fall/blob/main/git/Documents/git%E3%81%AE%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%20%E7%B7%B4%E7%BF%92%E7%B7%A8(%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA).pdf)
+[gitの操作方法 練習編(ローカルリポジトリ)](https://github.com/Sgfrd24-35/Prmn2024Fall/blob/main/git/Documents/git%E3%81%AE%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%20%E7%B7%B4%E7%BF%92%E7%B7%A8(%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA).pdf)
 
 
-[gitの操作方法 練習編(リモートリポジトリ)](https://github.com/Sgfrd24-35/Prmn2024Fall/blob/main/git/Documents/git%E3%81%AE%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%20%E7%B7%B4%E7%BF%92%E7%B7%A8(%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA).pdf)
+[gitの操作方法 練習編(リモートリポジトリ)](https://github.com/Sgfrd24-35/Prmn2024Fall/blob/main/git/Documents/git%E3%81%AE%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%20%E7%B7%B4%E7%BF%92%E7%B7%A8(%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA).pdf)
 
 
 
